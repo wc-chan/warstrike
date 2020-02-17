@@ -1,0 +1,7 @@
+com.warstrike
+com.warstrike.commands
+com.warstrike.entities
+com.warstrike.networking
+com.warstrike.state.client
+com.warstrike.state.server
+com.warstrike.states
